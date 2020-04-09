@@ -1,5 +1,5 @@
 
-Code for the COLING2020 paper：HITS-based Attentional Neural Model for Abstractive Summarization
+Code for the paper：HITS-based Attentional Neural Model for Abstractive Summarization
 
 How to run:
 The code is running with python3;
